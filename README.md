@@ -5,3 +5,4 @@ PHP 5 - FPM
 Extension enabled
 
 - ZIP
+- Postgres
